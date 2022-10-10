@@ -5,6 +5,7 @@ typedef long long ll;
 
 signed main()
 {
+    ios::sync_with_stdio(false); cin.tie(NULL);
     int q;
     cin>>q;
     priority_queue<int>st;
